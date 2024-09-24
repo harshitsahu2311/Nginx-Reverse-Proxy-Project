@@ -1,4 +1,4 @@
-# Simple Notes App for TWS Community
+# Nginx_Reverse_Proxy_Implementation
 This is a simple notes app built with React and Django.
 
 ## Requirements
