@@ -1,6 +1,5 @@
 # Nginx_Reverse_Proxy_Implementation
-This is a simple notes app built with React and Django.
-
+![Logo](https://github.com/harshitsahu2311/Nginx-Reverse-Proxy-Project/blob/main/NGINX%20REVERSE%20PROXY.gif)
 ## Requirements
 1. Python 3.9
 2. Node.js
@@ -9,7 +8,7 @@ This is a simple notes app built with React and Django.
 ## Installation
 1. Clone the repository
 ```
-git clone https://github.com/LondheShubham153/django-notes-app.git
+git clone https://github.com/harshitsahu2311/Nginx-Reverse-Proxy-Project.git
 ```
 
 2. Build the app
